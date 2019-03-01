@@ -1,4 +1,3 @@
 # hello-world
 
-New update for dev2
-
+Merged updates from dev1 and dev2
